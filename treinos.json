@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Treino de segunda",
+        "exercicios": [
+            "a",
+            " b",
+            " c",
+            " d",
+            " e"
+        ]
+    },
+    {
+        "nome": "sisi",
+        "exercicios": [
+            "sisi"
+        ]
+    },
+    {
+        "nome": "gigi",
+        "exercicios": [
+            "gigi",
+            " gigi2",
+            " gigi3 o retorno"
+        ]
+    }
+]
